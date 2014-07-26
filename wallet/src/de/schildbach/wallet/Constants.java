@@ -102,13 +102,13 @@ public final class Constants
 	public static final String DEFAULT_EXCHANGE_CURRENCY = "USD";
 
 	/** Currency code for base 1 Bitcoin. */
-	public static final String CURRENCY_CODE_BTC = "BTC";
+	public static final String CURRENCY_CODE_BTC = "SFR";
 
 	/** Currency code for base 1/1000 Bitcoin. */
-	public static final String CURRENCY_CODE_MBTC = "mBTC";
+	public static final String CURRENCY_CODE_MBTC = "mSFR";
 
 	/** Currency code for base 1/1000000 Bitcoin. */
-	public static final String CURRENCY_CODE_UBTC = "µBTC";
+	public static final String CURRENCY_CODE_UBTC = "µSFR";
 
 	/** Donation address for tip/donate action. */
 	public static final String DONATION_ADDRESS = "18CK5k1gajRKKSC7yVSTXT9LUzbheh1XY4";

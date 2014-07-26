@@ -12,7 +12,7 @@
 	<string name="blockchain_state_progress_stalled">Synchronization stalled</string>
 	<string name="blockchain_state_progress_problem_storage">Synchronizing: Storage problem</string>
 	<string name="blockchain_state_progress_problem_network">Synchronizing: Network problem</string>
-	<string name="wallet_address_fragment_your">Your Bitcoin Address:</string>
+	<string name="wallet_address_fragment_your">Your SFR Address:</string>
 	<string name="wallet_address_fragment_clipboard_msg">Bitcoin address copied to clipboard</string>
 	<string name="wallet_addresses_fragment_add_dialog_title">Add Bitcoin address</string>
 	<string name="wallet_addresses_fragment_add_dialog_message">Bitcoin addresses cannot be deleted. Do you want to add a new address to your wallet?</string>
@@ -29,9 +29,9 @@
 	<string name="wallet_transactions_fragment_tab_received">Received</string>
 	<string name="wallet_transactions_fragment_tab_all">Both</string>
 	<string name="wallet_transactions_fragment_tab_sent">Sent</string>
-	<string name="wallet_transactions_fragment_empty_text_received">No Bitcoins received so far.</string>
+	<string name="wallet_transactions_fragment_empty_text_received">No Saffroncoins received so far.</string>
 	<string name="wallet_transactions_fragment_empty_text_sent">No Bitcoins sent so far.</string>
-	<string name="wallet_transactions_fragment_empty_text_howto">How to get Bitcoins?\n\nTrade for traditional money,\nsell goods or services or\nearn by working.</string>
+	<string name="wallet_transactions_fragment_empty_text_howto">How to get Saffroncoins?\n\nTrade for traditional money,\nsell goods or services or\nearn by working.</string>
 	<string name="wallet_transactions_row_warning_backup">Congratulations, you received your first payment! Have you already &lt;u&gt;backed up your wallet&lt;/u&gt;, to protect against loss?</string>
 	<string name="wallet_transactions_fragment_coinbase">mined</string>
 	<string name="wallet_transactions_fragment_internal">internal</string>
